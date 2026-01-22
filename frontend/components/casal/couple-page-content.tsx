@@ -26,7 +26,7 @@ export function CouplePageContent() {
 
   useEffect(() => {
     const id = params.id as string
-    const storedData = localStorage.getItem(`contandoamor-${id}`)
+    const storedData = localStorage.getItem(`-${id}`)
 
     if (storedData) {
       setData(JSON.parse(storedData))
