@@ -37,8 +37,8 @@ export function Footer() {
               <Link href="/faq" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
                 Perguntas Frequentes
               </Link>
-              <a href="mailto:contato@contandoamor.com" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
-                contato@contandoamor.com
+              <a href="mailto:contandoamoroficial@gmail.com" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
+                contandoamoroficial@gmail.com
               </a>
             </nav>
           </div>

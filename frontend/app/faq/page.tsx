@@ -107,7 +107,7 @@ export default function FAQPage() {
               <CardContent>
                 <div className="grid gap-4 md:grid-cols-2">
                   <a
-                    href="mailto:contato@ContandoAmor.com"
+                    href="mailto:contandoamoroficial@gmail.com"
                     className="flex items-center gap-4 rounded-lg border border-border/50 p-4 transition-colors hover:bg-muted/50"
                   >
                     <div className="flex h-12 w-12 items-center justify-center rounded-full bg-primary/10">
@@ -115,11 +115,11 @@ export default function FAQPage() {
                     </div>
                     <div>
                       <h3 className="font-medium text-foreground">E-mail</h3>
-                      <p className="text-sm text-muted-foreground">contato@contandoamor.com</p>
+                      <p className="text-sm text-muted-foreground">contandoamoroficial@gmail.com</p>
                     </div>
                   </a>
                   <a
-                    href="https://wa.me/5511999999999"
+                    href="https://wa.me/5511973179659"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-4 rounded-lg border border-border/50 p-4 transition-colors hover:bg-muted/50"
