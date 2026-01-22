@@ -31,7 +31,7 @@ export function CouplePageContent() {
         const pageId = params.id as string;
 
         const response = await axios.get(
-          `http://127.0.0.1:8000/casal/${pageId}/`,
+            `${process.env.NEXT_PUBLIC_API_BASE_URL}/casal/${pageId}/`,
         );
 
         setData(response.data);
